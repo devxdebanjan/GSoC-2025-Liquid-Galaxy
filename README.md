@@ -1,6 +1,6 @@
 # The Official App to control LG Robotics Simulation
 
-This is how you can simulate and control your Robots in Liquid Galaxy.
+This is how you can simulate and control your Robots in Liquid Galaxy. This is a demo of what you can do with it: https://github.com/devxdebanjan/GSoC-2025-Liquid-Galaxy/blob/robosim-app/intro_2.mp4
 
 ## Prerequisites
 - Liquid Galaxy Rig Setup
